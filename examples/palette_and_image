@@ -1,0 +1,4 @@
+open examples/palette_and_image.txt
+getpalette 1
+getimage 0 2 -1
+save out.png
